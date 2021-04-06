@@ -1,10 +1,13 @@
 # kevinvietnguyen.github.io
 
 Try out our game!
+
 Artist: Andrew Barrios
+
 Programmer: Kevin Nguyen
 
 Producer: Andrew Barrios
+
 Developer: Kevin Nguyen
 
 Code heavily inspired by 
